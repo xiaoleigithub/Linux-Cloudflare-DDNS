@@ -54,3 +54,19 @@ crontab -e
 - <a target="_blank" href="https://cdn77.manage.hitun.io/auth/register?affid=2406">停机坪-海豚湾（最低￥9/月）</a>
 - <a target="_blank" href="https://www.youtube.com/channel/UCXhWKWQ-n4ktWKp4zQAGdTw">Youtube频道</a>
 - 你也可以直接提交问题单“Issues”
+- ![image](https://user-images.githubusercontent.com/46390738/110056043-01e22c00-7d99-11eb-8c6e-82329e724be4.png)
+
+
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131915845-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-131915845-1');
+</script>
