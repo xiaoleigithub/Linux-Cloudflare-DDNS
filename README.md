@@ -1,7 +1,8 @@
 # Linux-Cloudflare-DDNS
 - 项目源代码在这里：<a target="_blank" href="https://gist.github.com/xiaoleigithub/8fcc0d6fa03f1a39e900445a559cdb35">点击前往</a>
 ## 操作准备
-
+- 此项目可用于局域网或单台主机通过动态公网IP访问网络（例如谷歌云VPS、家庭宽带），基于某些原因（NAS、远程桌面）需要获取出口IP，从外网访问内网设备。
+- 项目在centos8，测试可用，其他版本需要自行测试。
 ## 操作步骤
 ### 获取API密钥
 - Cloudflare API密钥：	b*************************************b <br>
